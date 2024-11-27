@@ -1,18 +1,3 @@
-<!-- <div class="cuahang">
-<h1>Cửa Hàng</h1>
-</div>
-
-<section id="cart_items" style="margin-top: -50px; margin-bottom: -50px;">
-        <div class="container">
-            <div class="breadcrumbs">
-                <ol class="breadcrumb">
-                  <li><a href="#">Home</a></li>
-                  <li class="active">Cửa hàng</li>
-                </ol>
-            </div>
-        </div>
-    </section> -->
-
 <div class="container cn2">
   <div class="row">
 
@@ -225,16 +210,6 @@
 
 
       </div>
-      <!--features_items-->
-
-      <!-- 
-                        <ul class="pagination">
-                            <li class="active"><a href="">1</a></li>
-                            <li><a href="">2</a></li>
-                            <li><a href="">3</a></li>
-                            <li><a href="">&raquo;</a></li>
-                        </ul>
-                    -->
     </div>
 
 
